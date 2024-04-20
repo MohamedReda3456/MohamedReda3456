@@ -15,9 +15,9 @@
 ###
  <h2 align="left">Connect with me:</h2>
  <a href="https://www.facebook.com/profile.php?id=61551070234984"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"  href="https://www.facebook.com/profile.php?id=61551070234984" height="40" alt="facebook logo"  /></a>
-  <img width="12" />
-<a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" height="40" alt="linkedin logo"  /></a>
 
+<a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" height="40" alt="linkedin logo"  /></a>
+<a href="https://codeforces.com/profile/mohamedredaodah89"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" height="40" alt="codeforces logo"  /></a>
 <h2 align="left">I code with</h2>
 
 ###
